@@ -5,11 +5,10 @@ const Profile = () => {
   const { userName, setUserName } = useContext(UserContext);
 
   const handleChange = () => {
-<<<<<<< HEAD
-    setUserName("Jane venkat");
-=======
-    setUserName("Royal Venkatesh");
->>>>>>> main
+
+
+    setUserName("Jane Smith");
+
   };
 
   return (
