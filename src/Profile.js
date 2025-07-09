@@ -5,7 +5,7 @@ const Profile = () => {
   const { userName, setUserName } = useContext(UserContext);
 
   const handleChange = () => {
-    setUserName("Jane Smith");
+    setUserName("Jane venkat");
   };
 
   return (
