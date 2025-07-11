@@ -12,6 +12,7 @@ const Profile = () => {
     <div>
       <p>Profile name: {userName}</p>
       <button onClick={handleChange}>Change Name</button>
+      <p>Hello iam from new branch</p>
     </div>
   );
 };
